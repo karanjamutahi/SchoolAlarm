@@ -1,6 +1,9 @@
-# SchoolAlarm
-A simple project in which you can make a cheap alarm for a school or institution using an Arduino.
-I realise the code is inefficient in terms of memory but it was my first project anyway. 
-Your assistance in improving the code will be highly appreciated.
+# School Alarm
 
-Karanja Mutahi
+A very basic automated alaram designed for a school. 
+This was done while I was an intern at KTechnics Systems.
+The program uses up most of the memory available on the Uno. This is due to the inefficient use of arrays among other .... inefficiencies. 
+
+``` Any help improving the program would be highly appreciated.```
+
+Karanja Mutahi - 2016
